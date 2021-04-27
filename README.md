@@ -1,14 +1,5 @@
-### Fichier de base pour commencer un mini-projet 
+#### [CSS #7] Hamburger menu en full CSS
 
-Avec : 
-* des photos randoms
-* une navbar toute faite
-* un body tout fait
-* des sons
-* des svg
-* jQuery et Bootstrap reliés
-
-#### Démarrer projet avec Sass 
-* `npm run sass`
-
-browser-sync start --proxy localhost/***  --files '**/*' --no-notify
+SOURCE:
+*From Scratch - Développement Web
+--> lien https://www.youtube.com/watch?v=ZuGxV4-nCLw&list=PLEiMYEzpB4QvFzUe2KPVgJ0EInbNbt1rH&index=10
